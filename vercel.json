@@ -4,7 +4,7 @@
     { "src": "api/tts.js", "use": "@vercel/node" }
   ],
   "env": {
-    "YANDEX_IAM_TOKEN": "вставь_сюда_свой_iam_токен",
-    "YANDEX_FOLDER_ID": "вставь_сюда_folder_id"
+    "YANDEX_IAM_TOKEN": "t1.9euelZrHjInHlJjKi8_GncuJy4uLl-3rnpWakMyLlZeMjJeYjM3JiY2VjZDl8_cgfwI8-e8EAVp9_N3z92AtADz57wQBWn38zef1656VmsqOk46KlpOPkYuUjI2Py5OW7_zF656VmsqOk46KlpOPkYuUjI2Py5OW.p8pXmD5RZ8ZPGljYWn9KVBFVRvED47LHk_2k--ePuAB4h8nIt73h9UyURMxOFpORorT2L70J4aObJI4pYi9nCA",
+    "YANDEX_FOLDER_ID": "b1g1njl96g6u2rmfbkv8"
   }
 }
