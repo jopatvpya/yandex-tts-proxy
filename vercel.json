@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/tts.js", "use": "@vercel/node" }
+  ],
+  "env": {
+    "YANDEX_IAM_TOKEN": "вставь_сюда_свой_iam_токен",
+    "YANDEX_FOLDER_ID": "вставь_сюда_folder_id"
+  }
+}
